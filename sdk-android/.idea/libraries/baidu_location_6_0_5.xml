@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="baidu-location-6.0.5">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.baidu/baidu-location/6.0.5/jars/classes.jar!/" />
       <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.baidu/baidu-location/6.0.5/jars/libs/baidu-location.jar!/" />
       <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.baidu/baidu-location/6.0.5/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.baidu/baidu-location/6.0.5/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

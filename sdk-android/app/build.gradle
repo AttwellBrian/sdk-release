@@ -7,6 +7,7 @@ apply plugin: 'com.neenbedankt.android-apt'
 apply plugin: 'com.kageiit.url-cache'
 apply from: urlCache.get("http://artifactory.uber.internal:4587/artifactory/mobile/com/ubercab/shared-build-module/2.3.0/shared-build-module-2.3.0.gradle")
 
+group = "com.mobileapptracker"
 createVersionNumber()
 
 dependencies {
