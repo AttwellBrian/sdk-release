@@ -1,0 +1,1 @@
+int raw sample_message 0x7f020000

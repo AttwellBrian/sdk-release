@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="baidu-location-6.0.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.baidu/baidu-location/6.0.5/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.baidu/baidu-location/6.0.5/jars/libs/baidu-location.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.baidu/baidu-location/6.0.5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baidu/baidu-location/6.0.5/e4f04f40e85413bfbb7181571cc221fe6af77bb0/baidu-location-6.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

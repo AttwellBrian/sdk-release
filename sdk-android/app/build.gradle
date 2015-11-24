@@ -1,0 +1,31 @@
+apply plugin: 'com.android.library'
+apply plugin: 'checkstyle'
+apply plugin: 'maven'
+apply plugin: 'guap'
+apply plugin: 'com.neenbedankt.android-apt'
+
+apply plugin: 'com.kageiit.url-cache'
+apply from: urlCache.get("http://artifactory.uber.internal:4587/artifactory/mobile/com/ubercab/shared-build-module/2.3.0/shared-build-module-2.3.0.gradle")
+
+createVersionNumber()
+
+dependencies {
+    compile "com.ubercab:monitoring-deprecated:2.0.0"
+    compile 'com.ubercab.android:location-service:3.2.0'
+    compile 'com.ubercab:network-uspout:2.1.0'
+    compile "com.android.support:support-v4:23.0.0"
+    provided 'com.android.support:support-annotations:23.0.0'
+    testCompile "com.ubercab.android:test:${androidTestLibraryVersion}"
+}
+
+android {
+    compileSdkVersion 22
+
+    defaultConfig {
+        minSdkVersion 15
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+}

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="monitoring-deprecated-2.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.ubercab/monitoring-deprecated/2.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.ubercab/monitoring-deprecated/2.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ubercab/monitoring-deprecated/2.0.0/828e1d050426c4ae7d5a76b7446797014c17b8e2/monitoring-deprecated-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

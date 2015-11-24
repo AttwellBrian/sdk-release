@@ -20,5 +20,8 @@ Resources/Configuration/Private.xcconfig
 .pid_file
 .sass-cache
 
+*.class
+sdk-android/app/build/*
+
 #appledoc
 docs/docset-installed.txt

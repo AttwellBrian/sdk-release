@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="play-services-location-7.3.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-location/7.3.0/4dd7d37b540bc67129728bc9cf9a783cbd303a8b/play-services-location-7.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

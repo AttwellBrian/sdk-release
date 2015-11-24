@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="network-uspout-2.1.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.ubercab/network-uspout/2.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.ubercab/network-uspout/2.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ubercab/network-uspout/2.1.0/18072634fb1dc5d527dec3724fed51da5f517475/network-uspout-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
